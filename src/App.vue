@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import ali from './components/CssDirection'
+import ali from './components/SvgAnimation/one'
 
 export default {
   name: 'App',

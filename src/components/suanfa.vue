@@ -9,7 +9,7 @@
       }
     },
     mounted() {
-      const str = 'asd fgh jkl'
+      const str= 'asd fgh jkl'
       console.log(this.reverseWords(str))
     },
     methods: {
